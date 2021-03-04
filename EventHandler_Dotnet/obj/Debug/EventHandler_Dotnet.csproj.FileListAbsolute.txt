@@ -1,0 +1,6 @@
+C:\Users\Cyp\source\repos\EventHandler\EventHandler_Dotnet\bin\Debug\EventHandler_Dotnet.exe.config
+C:\Users\Cyp\source\repos\EventHandler\EventHandler_Dotnet\bin\Debug\EventHandler_Dotnet.exe
+C:\Users\Cyp\source\repos\EventHandler\EventHandler_Dotnet\bin\Debug\EventHandler_Dotnet.pdb
+C:\Users\Cyp\source\repos\EventHandler\EventHandler_Dotnet\obj\Debug\EventHandler_Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Cyp\source\repos\EventHandler\EventHandler_Dotnet\obj\Debug\EventHandler_Dotnet.exe
+C:\Users\Cyp\source\repos\EventHandler\EventHandler_Dotnet\obj\Debug\EventHandler_Dotnet.pdb

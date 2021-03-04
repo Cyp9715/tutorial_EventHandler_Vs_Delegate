@@ -1,0 +1,7 @@
+C:\Users\Cyp\source\repos\EventHandler\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Cyp\source\repos\EventHandler\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Cyp\source\repos\EventHandler\Delegate\bin\Debug\Delegate.exe
+C:\Users\Cyp\source\repos\EventHandler\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Cyp\source\repos\EventHandler\Delegate\obj\Debug\Delegate.exe
+C:\Users\Cyp\source\repos\EventHandler\Delegate\obj\Debug\Delegate.pdb
+C:\Users\Cyp\source\repos\EventHandler\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
